@@ -1,3 +1,6 @@
 Go Microservice for Identity API
 
-3rd Party License References can be found in the file LICENSE_3rdParty.
+- Discovery API for health checks
+- Connection to PostgreSQL using pgxpool
+
+* Reference to 3rd party libraries and licenses under 3rd_Party_Licenses
